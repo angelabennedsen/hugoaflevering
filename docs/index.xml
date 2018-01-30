@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forside on ANGELA&#39;S TRAVEL BLOG</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Forside on ANGELA&#39;S TRAVEL BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Jan 2018 15:13:19 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diving</title>
+      <link>http://example.org/portfolio/case4/</link>
+      <pubDate>Tue, 30 Jan 2018 15:19:41 +0100</pubDate>
+      
+      <guid>http://example.org/portfolio/case4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lagune</title>
+      <link>http://example.org/portfolio/case3/</link>
+      <pubDate>Tue, 30 Jan 2018 15:19:08 +0100</pubDate>
+      
+      <guid>http://example.org/portfolio/case3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kajak</title>
+      <link>http://example.org/portfolio/case2/</link>
+      <pubDate>Tue, 30 Jan 2018 15:18:46 +0100</pubDate>
+      
+      <guid>http://example.org/portfolio/case2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beach Trip</title>
+      <link>http://example.org/portfolio/case1/</link>
+      <pubDate>Tue, 30 Jan 2018 15:18:26 +0100</pubDate>
+      
+      <guid>http://example.org/portfolio/case1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Tue, 30 Jan 2018 15:17:50 +0100</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Pleas contact me if you have anything on your heart!
+  form input { background-color: white; font-family: arial; color: black; } .sendknap { background-color: #efefef; height: 3em; width: 10em; margin-top: 1em; } .email{ background-color: #BDBDBD; height: 2em; width: 40em; margin-top: 1em; } .navn { background-color: #BDBDBD; height: 2em; width: 40em; }  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Tue, 30 Jan 2018 15:17:35 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description> So who am I?  My name is Angela Bennedsen Im am 25 years old I live in Copenhagen with my boyfriend Morten I love to travel
+  Top 3 countries i have been to  India Thailand Canada  </description>
+    </item>
+    
+  </channel>
+</rss>
