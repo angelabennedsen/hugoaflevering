@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "ANGELA'S TRAVEL BLOG"
 theme = "minimal"
+publishDir = "docs"
 
 
 [[menu.main]]
